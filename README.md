@@ -5,3 +5,8 @@ Este repositório contém um painel Power BI abrangente que fornece informaçõe
 ![Painel](NetflixPBI.png)
 
 ## Visão geral do painel
+
+O painel inclui as seguintes funcionalidades:
+
+- **Número total de títulos**: uma representação visual da contagem de títulos disponíveis na Netflix.
+- **Contagem de classificações**: o número de classificações de conteúdo diferentes representadas no conjunto de dados.
