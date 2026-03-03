@@ -10,3 +10,13 @@ O painel inclui as seguintes funcionalidades:
 
 - **Número total de títulos**: uma representação visual da contagem de títulos disponíveis na Netflix.
 - **Contagem de classificações**: o número de classificações de conteúdo diferentes representadas no conjunto de dados.
+- **Realizadores e géneros**:
+- **Número total de realizadores**: mostra o número de realizadores únicos cujos trabalhos estão disponíveis na Netflix.
+- **Popularidade dos géneros**: um gráfico de barras que mostra os géneros mais populares com base no total de visualizações ou na contagem de programas.
+- **Programas mais bem classificados**: Um gráfico de barras que mostra as classificações de conteúdo mais frequentes (por exemplo, TV-MA, TV-14).
+- **Distribuição por país**: Um mapa geográfico que ilustra a origem do conteúdo distribuído por vários países.
+- **Tipo de conteúdo**:
+- **Filmes vs. Programas de TV**: Um gráfico de rosca que mostra a proporção de filmes em comparação com programas de TV.
+- **Ano de lançamento**:
+- **Intervalo**: anos mínimos e máximos de lançamento exibidos.
+- **Tendência ao longo do tempo**: um gráfico de linhas que representa a distribuição do conteúdo ao longo dos anos.
