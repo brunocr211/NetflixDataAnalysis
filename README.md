@@ -20,3 +20,11 @@ O painel inclui as seguintes funcionalidades:
 - **Ano de lançamento**:
 - **Intervalo**: anos mínimos e máximos de lançamento exibidos.
 - **Tendência ao longo do tempo**: um gráfico de linhas que representa a distribuição do conteúdo ao longo dos anos.
+
+## Estatísticas principais
+
+- **Contagem total de títulos**: 8.803
+- **Classificações únicas**: 19
+- **Número total de diretores**: 4.527
+- **Ano de lançamento mais antigo**: 1925
+- **Ano de lançamento mais recente**: 2021
