@@ -1,6 +1,6 @@
 # Painel em Power BI da Netflix
 
-Este repositório contém um painel Power BI abrangente que fornece informações sobre o conjunto de dados da Netflix. O painel visualiza vários aspetos dos dados, como classificações de programas, géneros, distribuição por país e tendências de lançamento
+Este repositório contém um painel Power BI abrangente que fornece informações sobre o conjunto de dados da Netflix. O painel visualiza vários aspetos dos dados, como classificações de programas, géneros, distribuição por país e tendências de lançamento.
 
 ![Painel](NetflixPBI.png)
 
@@ -40,3 +40,20 @@ O painel inclui as seguintes funcionalidades:
 #
 
 Para visualizar e interagir com o painel, certifique-se de ter o Power BI Desktop instalado. 
+
+# Informações
+Este painel ajuda a responder a perguntas como:
+
+1. Que tipo de conteúdo (séries de TV ou filmes) é mais comum na Netflix?
+2. Quais são as classificações de conteúdo mais comuns?
+3. Como é que o volume de conteúdo da Netflix tem evoluído ao longo do tempo?
+4. Quais são os géneros mais populares na Netflix?
+
+# Melhorias futuras
+1. Integração com fontes de dados em tempo real para manter o painel atualizado.
+2. Análise mais detalhada das estatísticas de visualização e preferências regionais.
+3. Adição de interatividade e filtros para insights orientados pelo utilizador.
+
+# Contribuições
+
+**As contribuições são bem-vindas! Se tiver ideias para melhorias ou detetar algum problema, sinta-se à vontade para enviar um pedido de pull.**
